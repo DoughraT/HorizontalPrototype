@@ -3,7 +3,9 @@
 <p align="center"> Related Course: CPSC 481 - Human-Computer Interaction </p>
 
 <p> An all‑in‑one public information kiosk that provides services for public use which includes an interactive map with built‑in routing and public
-transportation information among other applications. Created and designed using lo‑fi and hi‑fi prototypes and heuristic evaluations. Project intermediate and final reports can be found in PDF format in the repository. </p>
+transportation information among other applications. Created and designed using lo‑fi and hi‑fi prototypes and heuristic evaluations. 
+  
+Project intermediate and final reports can be found in PDF format in the repository. </p>
 
 A video demo of the project may be seen here: [**ImInfo Demo**](https://drive.google.com/file/d/11rxYopSwVe7vLG-fbrWZ2WM0kjYECYaX/view?usp=sharing).
 
