@@ -11,13 +11,13 @@ A video demo of the project may be seen here: [**ImInfo Demo**](https://drive.go
 
 <br></br>
 
-## Built With
+# Built With
 - Windows Presentation Foundation
 - C#
 
 <br></br>
 
-## Functionalities Implemented
+# Functionalities Implemented
 1. **Ability to choose switch languages:** The current application supports 2 languages: English and French. <br></br>
 3. **Sign Up, Log In and Use as Guest:** The user can choose either of three options from the loginScreen. <br></br>
 4. **Interactive Map:** Which includes **zooming in and out** of destinations on the map. <br></br>
@@ -31,7 +31,7 @@ A video demo of the project may be seen here: [**ImInfo Demo**](https://drive.go
 
 <br></br>
 
-## Authors
+# Authors
 
 [**Mohammed Rakeeb**](https://github.com/Mohammed-Rakeeb)
 
